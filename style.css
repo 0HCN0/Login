@@ -16,7 +16,16 @@ body{
     background-position: center;
     background-size: cover;
 }
+
+.hello{
+    display: flex;
+    justify-content: flex-end;
+    
+}
 .wrapper {
+    margin-right: 200px;
+    display:flex;
+    justify-content: flex-end;
     border-radius:10px;
     background: transparent;
     border: 2px solid rgba(255,255,255,.2);
